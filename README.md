@@ -43,20 +43,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<center>
-  <table>
-    <tr>
-        <td>
-          <img width="400px" align="center" 
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardfasano&hide=html,makefile,vhdl,c,qmake,css&langs_count=6&layout=compact&theme=dracula" />
-      </td>
-      <td>
-          <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=edwardfasano&show_icons=true&count_private=true&theme=dracula" />
-      </td>
-    </tr>   
-  </table>
-</center>
+<br/>
